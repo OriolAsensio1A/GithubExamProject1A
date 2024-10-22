@@ -3,7 +3,7 @@ Landscape --> Nikita <br>
 Sword --> Jesús <br>
 Rock --> Johansen <br>
 Character --> Sergio <br>
-![image](https://github.com/user-attachments/assets/e54fb7c1-3913-4235-b41a-2a99592547b7)
+![image](https://github.com/user-attachments/assets/398b9bc1-4b37-4cb7-b952-944f4c78e415)
 <body>
     <div class="container">
         <h1>¡Gracias, Dani Gómez!</h1>
